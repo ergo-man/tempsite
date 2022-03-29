@@ -43,8 +43,18 @@ body {background-color:#292c30;}
   cursor: pointer
  }
 
-	
-	
+.version {
+  background-color: #435570;
+  border: double;
+  color: white;
+  padding: 1% 3%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  cursor: none
+ }
+
 	
 	
 	

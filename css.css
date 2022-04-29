@@ -18,14 +18,11 @@ p
 body {background-color:#292c30;}
 
 
-.border_disabled {
-  background-color: #009999;
-  border: double;
+.border{
+  background-color: #92a8d1;
+  border: single;
   color: white;
-  padding: 5% 15%;
-  text-align: none;
   text-decoration: none;
-  display: inline-block;
   font-size: 100%;
   cursor: 
  }
@@ -55,6 +52,10 @@ body {background-color:#292c30;}
   cursor: none
  }
 
-	
+.search {
+position: absolute;
+right: 5%;
+width: 5%;
+}
 	
 	

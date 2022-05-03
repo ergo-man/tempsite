@@ -60,3 +60,28 @@ width: 5%;
 	
 .layout {
 }
+
+.form {
+  background-color: #435570;
+  border: double;
+  color: white;
+  padding: 1% 3%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+  cursor: none
+}
+
+.videoplacement {
+position: absolute;
+right: 0%;
+width: 95%;
+  background-color: #435570;
+  border: double;
+  color: white;
+  padding: 1% 1%;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+}

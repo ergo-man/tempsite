@@ -11,9 +11,9 @@ h1
 	{font-size:400%; line-height: 200%}
 
 h2	
-	{color:#adadad;}
+	{color:white;}
 p	
-	{color:#adadad;}
+	{color:white;}
 	
 body {background-color:#292c30;}
 
@@ -62,6 +62,8 @@ width: 5%;
 }
 
 .form {
+	width: 20%;
+right: 25%;
   background-color: #435570;
   border: double;
   color: white;
@@ -70,13 +72,12 @@ width: 5%;
   text-decoration: none;
   display: inline-block;
   font-size: 100%;
-  cursor: none
 }
 
 .videoplacement {
 position: absolute;
-right: 0%;
-width: 95%;
+width: 50%;
+right: 25%;
   background-color: #435570;
   border: double;
   color: white;
